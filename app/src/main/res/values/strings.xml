@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AnimationExample</string>
+
+
+    <string name="slogan">Not By Chance</string>
+
+
+    <!-- Login String -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Log in</string>
+    <string name="signUp">Sign up</string>
+</resources>
